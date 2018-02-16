@@ -1,7 +1,7 @@
 /* add your CSS here */
 .animal_card {
-	width : 300px;
-	border : 1px solid lightgray;
+	width: 300px;
+	border: 1px solid lightgray;
 	box-shadow: 5px 5px lightgray;
 	padding: 1em;
 }
@@ -15,11 +15,11 @@
 }
 
 .information {	
-
-	border : 1px solid lightgray;
+	border: 1px solid lightgray;
 	margin-top: 10px;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding: 0 10px 0 10px;
+	/*padding-left: 10px;
+	padding-right: 10px;*/
 	font-size: small;
 	text-align: justify;
 }
